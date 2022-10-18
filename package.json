@@ -1,0 +1,24 @@
+{
+  "name": "sistemas-distribuidos",
+  "version": "1.0.0",
+  "description": "Lab2 sistemas distribuidos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lab2": "^1.0.0",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dokurosama/Lab2_sistemas_distribuidos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dokurosama/Lab2_sistemas_distribuidos/issues"
+  },
+  "homepage": "https://github.com/Dokurosama/Lab2_sistemas_distribuidos#readme"
+}
